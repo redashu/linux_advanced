@@ -45,3 +45,19 @@
 
 </p>
 </details>
+
+# linux_IO_based_question
+
+<details><summary>Click here</summary>
+<p>
+
+```bash
+  1. run command cal and store output of top 3 lines in a file called data.txt under Desktop folder 
+  2. calculate number of characters in abvoe file can store in a newfile called char.txt under Desktop folder 
+  3. run " date && pwd && whoami " and store output in the same file named data.txt 
+  4. make sure data.txt must have both content step 1 and step 3 
+  5. copy data.txt under /tmp by the name of taskdone.txt 
+```
+
+</p>
+</details>
