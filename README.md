@@ -29,3 +29,19 @@
 
 </p>
 </details>
+
+# linux_shell&IO_based_question
+
+<details><summary>Click here</summary>
+<p>
+
+```bash
+  1. set below given property for user named  "power" 
+  2. this user must have shell as  "/bin/sh" permanently 
+  3. ADD /home/power/mycommands directory in users PATH variables permanently and existing location of PATH  must exist 
+  4. date and cal command must present in /home/power/mycommands location 
+  5. after completion of above 4 steps run cal command and store output in a file called  calendar.txt under Desktop folder
+```
+
+</p>
+</details>
