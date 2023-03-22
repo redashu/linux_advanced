@@ -46,4 +46,18 @@
   
   </p>
 </details>
-  
+    
+### exploring networking section with ssh , apache httpd 
+ <details>
+ <summary>show</summary>
+ <p>
+ 
+```bash
+   1. 
+   
+```
+   
+   
+</p>
+    
+</details> 
