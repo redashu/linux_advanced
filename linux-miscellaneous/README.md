@@ -17,7 +17,11 @@
   8.  also copy firefoxpid.txt to /tmp/ directory from  <linuxexam> user 
   9.  create a new user called <exam1> with password <123#?> and check after login to this user that he automatically gets firefoxpid.txt in home directory
   10. now  delete /tmp/firefoxpid.txt from <exam1> user. 
+  11. configure <exam1> user in such a way so that this user can run only 5 commands date , rm ,rmdir , cal , firefox apart from this no commands can be run by this user
+
 ```
+  
+
 
 </p>
 </details>
