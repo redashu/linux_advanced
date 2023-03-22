@@ -31,7 +31,8 @@
 <details>
 <summary>show</summary>
   <p>
-    ```bash
+    
+```bash
     1. create a shell script named  hello.sh under /tmp/ location  by using <linuxexam> user
     2. make sure you are able to run script like "/tmp/hello.sh"
     3. now from <linuxexam> user when you run a shell script like "/tmp/hello.sh linux" this it must perform below given operation
@@ -41,7 +42,7 @@
     7. now if you run the same shell scripting from <exam1> user this script must work as it is 
     8. finally run this script again from. <linuxexam> user like "/tmp/hello.sh root" it must print below given things 
     9. output of that program must be all those lines  from /etc/passwd file which contain root and bash  keywords
-    ```
+```
   
   </p>
 </details>
