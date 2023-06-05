@@ -53,7 +53,20 @@
  <p>
  
 ```bash
-   1. 
+   1. create one ec2 vm of amazon linux 2 ami and connect with ssh
+   2. create two users after login into machine user1 and user2 with password "Task@098"
+   3. configure your ssh server on your ec2 machine in given way  
+       i) change port number of ssh from 22 to 29 
+       ii) make sure you can connect with user1 and its password using ssh 
+       iii) user2 you can not connect with password 
+       iv)  user1 can use sudo command but user2 can't 
+   4. Now finally login with user1 using ssh 
+   5. install git first then clone one website "https://github.com/microsoft/project-html-website.git"
+   6. Now create another ec2 vm of amazon linux 
+   7. In second vm create user1 and user2 with same password as given above and give sudo power to user1  
+   8. now login to ec2 vm2 with user1 and install httpd software using user1 only
+   9. transfer github website code from vm1 to vm2 using user1 
+   10. once code is transfered to vm2 make sure you start httpd service and check that github webiste is running in vm2 
    
 ```
    
