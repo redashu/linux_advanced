@@ -35,3 +35,24 @@
 
 </p>
 </details>
+
+## IO direction task 3
+
+<details><summary>show</summary>
+<p>
+
+```bash
+  1. 
+  2. complete this task uisng non root user
+  3. store all the rows of /etc/passwd file into myshell.txt under /tmp/ which matches given conditions 
+  4. every row must contain  root OR  shutdown  as exact words  
+  5. now put this myshell.txt file in such a location so that it must follow below given condition you can root for this line if required
+  6. now create new user named autouser1 
+  7. autouser1 home directory must be /opt/autouser1 automatically
+  8. when you check autouser1 home directory it must contain myshell.txt file
+  9. Please note that step 7 and step 8 must happen automatically once you create user 
+```
+
+</p>
+</details>
+
