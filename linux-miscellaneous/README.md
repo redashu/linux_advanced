@@ -74,3 +74,20 @@
 </p>
     
 </details> 
+
+
+## Linux all Basics 
+
+### task part 1 
+
+<details>
+ <summary>show</summary>
+ <p>
+   <img src="part1.png">
+ </p>
+    
+</details> 
+
+
+
+
