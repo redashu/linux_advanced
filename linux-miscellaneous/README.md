@@ -88,6 +88,26 @@
     
 </details> 
 
+### Linux Overall basic 
+
+<details>
+ <summary>show</summary>
+ <p>
+   ```bash
+   1. Using root user create a directory /mnt/projects/ 
+   2. also setup owner root and group as manager adjust permission also so that only group can do everything rest no can do anything
+   3. create 3 users nameds harry , jack and preeti and they must be part of manager group 
+   4. now create one file and one folder of anyname by each user in  above created directory 
+   5. adjust permission in sach way so that they can't write or delete data of each other in /mnt/projects/
+   6. adjust permission which set manager group to all the files and folder which is going to be created in above folder 
+   7. Create a new user called jerry which also has all permission to above folder but he can't be the member of manager group 
+
+   ```
+ </p>
+    
+</details> 
+
+
 
 
 
